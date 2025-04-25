@@ -52,7 +52,6 @@ news_websites = {
     "New York Times": "https://www.nytimes.com",
     "The Guardian": "https://www.theguardian.com/us",
     "Al Jazeera": "https://www.aljazeera.com",
-    "Washington Post": "https://www.washingtonpost.com",
     "Fox News": "https://www.foxnews.com",
     "NPR": "https://www.npr.org"
 }
