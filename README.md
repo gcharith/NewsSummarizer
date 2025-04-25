@@ -18,8 +18,7 @@ A Streamlit-based web app that summarizes trending news articles using OpenAI's 
 ---
 
 ## 🚀 Live Demo
-
-
+Check out at https://newssummarizer-charith.streamlit.app
 
 ---
 
